@@ -1,3 +1,3 @@
-# node_crash_course
+# node.js crash course
 
-## learning about commonly usd modules and how to build a very simple server
+## learning about commonly used modules and how to build a very simple server
