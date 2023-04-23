@@ -1,0 +1,13 @@
+html {
+    min-height: 100%;
+    background-image: url(https://img.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_114360-5529.jpg?w=740&t=st=1682281802~exp=1682282402~hmac=051bd232a3329a0cc548e4c140c5a651a6a96e805e069715eea34d07e0e59126);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+@media only screen and (max-width: 767px) {
+  html {
+     background-image: url(https://img.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_114360-5529.jpg?w=740&t=st=1682281802~exp=1682282402~hmac=051bd232a3329a0cc548e4c140c5a651a6a96e805e069715eea34d07e0e59126);
+  }
+}
